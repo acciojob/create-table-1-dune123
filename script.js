@@ -1,5 +1,4 @@
-function insert_Row() {
-    //Write your code here
+
 	function insert_Row() {
     //Write your code here
 	
@@ -15,4 +14,4 @@ function insert_Row() {
 	const tableElement=document.querySelector('table')
     tableElement.insertBefore(newRow, tableElement.firstChild);
 }
-}
+
